@@ -1,0 +1,7 @@
+siteUrl=https://github.com/jwgibanez/utilities
+gitUrl=https://github.com/jwgibanez/utilities
+version=0.0.0
+groupId=com.jwgibanez
+licenses=['Apache-2.0']
+id=utilities
+name=utilities
